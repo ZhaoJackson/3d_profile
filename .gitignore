@@ -10,6 +10,7 @@ lerna-debug.log*
 dist/
 build/
 *.local
+.vite/
 
 # Environment variables
 .env
